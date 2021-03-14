@@ -1,38 +1,5 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+We write to taste life twice. I have tried several platforms like WeChat official account 微信公众号, Douban 豆瓣, Zhihu 知乎, Jianshu 简书, Medium but none of them met my needs. Luckily I am a software engineer and Github is my faithful friend. On this gloria day of 2021, this blog is born, whose author has been stuck in the COVID 19 pandemic for more than a year and finally bored enough to revive this long overdue new year resolution. So, Hello World.
