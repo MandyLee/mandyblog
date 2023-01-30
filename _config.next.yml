@@ -139,14 +139,14 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  E-Mail: mailto:mandy.manli@outlook.com || fa fa-envelope
+  E-Mail: mailto:mandyli947@gmail.com || fa fa-envelope
   LinkedIn: https://www.linkedin.com/in/mandymanli || fab fa-linkedin
   GitHub: https://github.com/MandyLee || fab fa-github
-  Instagram: https://instagram.com/mandymanli || fab fa-instagram
+  # Instagram: https://instagram.com/mandymanli || fab fa-instagram
   知乎: https://www.zhihu.com/people/li-man-55-99 || fab fa-zhihu
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-#  Twitter: https://twitter.com/LiSmileyvenice || fab fa-twitter
+  #Twitter: https://twitter.com/LiSmileyvenice || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
